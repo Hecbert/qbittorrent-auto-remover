@@ -1,4 +1,4 @@
-<img width="1920" height="500" alt="escape" src="https://github.com/user-attachments/assets/5e02a984-1b85-4249-b0fd-56dba9dd7fbf" />
+<img width="1920" height="500" alt="escape (1)" src="https://github.com/user-attachments/assets/3a89765d-98c3-44ad-9c11-7c602fc1cdad" />
 
 Automatically deletes torrents in **qBittorrent** if they are larger than the free space (minus a safety margin) on the drive, and sends a notification to a **Discord** channel via webhook.
 

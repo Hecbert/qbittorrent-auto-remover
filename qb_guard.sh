@@ -13,7 +13,6 @@ LOG_FILE="/path/to/scripts/qb_guard.log"
 # CODE
 
 DRY_RUN="${DRY_RUN:-0}"
-
 TORRENT_NAME="${1:-}"
 TORRENT_SIZE="${2:-0}"
 SAVE_PATH="${3:-/media/descargas}"

@@ -8,7 +8,7 @@ QB_URL="http://localhost:9500"
 QB_USER=""
 QB_PASS=""
 DISCORD_WEBHOOK=""
-LOG_FILE="/media/scripts/qb_guard.log"
+LOG_FILE="/path/to/scripts/qb_guard.log"
 
 # CODE
 

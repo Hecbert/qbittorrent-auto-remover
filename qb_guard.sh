@@ -15,7 +15,7 @@ LOG_FILE="/path/to/scripts/qb_guard.log"
 DRY_RUN="${DRY_RUN:-0}"
 TORRENT_NAME="${1:-}"
 TORRENT_SIZE="${2:-0}"
-SAVE_PATH="${3:-/media/descargas}"
+SAVE_PATH="${3:-/path/to/downloads}"
 INFO_HASH="${4:-}"
 
 ts() { date '+%Y-%m-%d %H:%M:%S'; }

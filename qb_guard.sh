@@ -1,13 +1,17 @@
 #!/bin/sh
 set -eu
 
+# ENVIRONMENT VARIABLES
+
 MARGIN_GB="10"
 QB_URL="http://localhost:9500"
 QB_USER=""
 QB_PASS=""
 DISCORD_WEBHOOK=""
-
 LOG_FILE="/media/scripts/qb_guard.log"
+
+# CODE
+
 DRY_RUN="${DRY_RUN:-0}"
 
 TORRENT_NAME="${1:-}"
